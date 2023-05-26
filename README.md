@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SportsScience-with-RL
 - 👀 I’m interested in Data Science mainly for sports
-- 🌱 I’m currently learning statistics and machine learning through Python
+- 🌱 Always learning more about statistics and machine learning
 - 📫 How to reach me https://www.linkedin.com/in/raphael-lagarde-511b40100/ 
 
 <!---
